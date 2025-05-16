@@ -3,7 +3,7 @@ An AI-powered web application that matches resumes against job descriptions usin
 
 Features include inputting a job description and uploading multiple resumes (PDF, DOCX, TXT), calculating similarity scores between job description and resumes using NLP embeddings, displaying top matching resumes with scores, and a user-friendly responsive UI with file upload and result visualization. Built with Flask backend and Bootstrap frontend.
 
-Tech stack: Python, Flask, Gunicorn, spaCy, Transformers (HuggingFace), scikit-learn, HTML, Bootstrap 4, deployed on Render.com.
+Tech stack: Python, Flask, Gunicorn, scikit-learn, HTML, Bootstrap 4, deployed on Render.com.
 ## Installation & Setup
 
 Clone the repo by running:
